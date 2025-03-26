@@ -745,6 +745,8 @@ User ubuntu (the user to log in as)
 IdentityFile C:\Users\username\.ssh\id_rsa (the path to your private key)
 ```
 
+On MacOS you can change the filepath of your key to a relative one: `~/.ssh/your-key-name`
+
 **Example:**
 
 ![Config file](img/image.png)
